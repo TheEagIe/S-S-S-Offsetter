@@ -9,8 +9,6 @@ print("What is the Y-Offset?: ")
 y_value = input()
 print('y_value:', y_value)
 
-original_sss = {}
-
 with open('original.json') as original:
     filedata = json.load(original)
     for sss in filedata['frames']:
