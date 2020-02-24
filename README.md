@@ -2,7 +2,7 @@
 A spriteSourceSize offsetter program for .json files made with TexturePacker. This code may be used for games like Speedrunners
 
 # How to Use:
-Name the json file you wish to change to "original"
+Name the json file you wish to change to "original.json"
 
 The first prompt will ask for an x-offset. 
 This offset will move your sprite across the x-axis, negative = left, positive = right.
