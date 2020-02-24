@@ -12,7 +12,7 @@ This offset will move your sprite across the y-axis, negative = up, positive = d
 
 Leave blank for no changes
 
-Afterwards, it will create a new file named "animation_atlas_variant.json" with your changes
+Afterwards, it will create a new file named "animation_atlas_variant.json00" with your changes
 
 # Limitations
 * Assumes every sprite is of the same size, and location.
